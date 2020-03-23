@@ -1,0 +1,40 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+#main-field{
+  border: 1px black solid;
+  padding:50px;
+  margin:50px;
+  width: 500px;
+  text-align: center;
+}
+.title{
+  margin: auto;
+}
+#name{
+display: block;
+margin-bottom: 30px;
+margin-top: 30px;
+width:100%;
+height: 50px;
+font-size: 3em;
+text-align: right;
+}
+
+.btn{
+  display:block;
+  width:50%;
+  height:50px;
+  margin:auto;
+}
+
+#loading-field{
+  display: none;
+  border: 1px black solid;
+  padding:50px;
+  margin:50px;
+  width: 500px;
+  text-align: center;
+}
